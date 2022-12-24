@@ -1,0 +1,4 @@
+-- adame_lib <https://github.com/javiadaame/adame_lib>
+-- Copyright (C) 2022 Javi Adame <https://github.com/javiadaame>
+-- GPL-3.0 License
+-- Core
